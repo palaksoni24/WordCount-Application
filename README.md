@@ -7,3 +7,6 @@ It has five parts:-
 3. Sorting: It involves the sorting of the elements in ascending as well as descending sort.
 4. User Operations: It invoves all the print methods which holds the results of all the functions.
 5. Main file: It contains the main method which would be responsible for fuction calling and providing the final outcome.
+
+There is a file named WordCount file which contains all the data as an example related to the project for performing the operations such as:
+Input file, Symbols and StopWords.
